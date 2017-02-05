@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## The functions below computes inverse of a matrix and caches the data so the inverse is not computed again till matrix is changed.
+## 
 
 ##This function creates the matrix and invokes setters/getters on inverse attribue which are calculated by the cacheSolve function. if the matrix changes, then the nverse is set to NULL.
 
